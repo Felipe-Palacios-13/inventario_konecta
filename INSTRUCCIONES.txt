@@ -1,0 +1,15 @@
+
+1 - Copie o mueva la carpeta 'Konecta' a su servidor local o remoto
+
+2 - Cree una base de datos en MYSQL con el nombre de su preferencia, 
+seleccionela e importe la base de datos del sistema con phpmyadmin u otro gestor grafico de MYSQL 
+que utilice, la base de datos se encuentra en la carpeta DB/pdo.sql
+
+3 - Abra la carpeta php y ejecute el archivo main.php con su editor de código favorito, configure solamente los datos 
+del servidor (en la funcion conexion).
+
+4 - Abrir su localhost, si copio o movió la carpeta a su servidor ya podria visualizar el entorno gráfico
+
+Disfrute de la ejecución del código.
+
+Nota: Si tiene alguna duda o pregunta contactar a Felipe Palacios - 3144256994
